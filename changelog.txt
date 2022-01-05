@@ -1,7 +1,8 @@
 *** WooCommerce Payments Changelog ***
 
 = 3.6.0 - 2022-xx-xx =
-* Fix UPE validation error visibility on checkout page.
+* Fix - UPE validation error visibility on checkout page.
+* Tweak - Display a more specific error message when a customer attempts to purchase a WCPay Subscription below the minimum transact-able amount.
 
 = 3.5.0 - 2021-12-29 =
 * Fix - Error when renewing subscriptions with saved payment methods disabled.
